@@ -1,0 +1,132 @@
+Creando threads
+Iniciando thread 0
+Iniciando thread 1
+Iniciando thread 2
+Iniciando iteración 1
+0 - Semáforo abierto con éxito.
+0 - (!) Recurso tomado
+0 - Buenos días! Recurso usado
+Iniciando iteración 1
+2 - Semáforo abierto con éxito.
+2 - (!) Recurso tomado
+2 - Buenos días! Recurso usado
+0 - Recurso devuelto :)
+Iniciando iteración 2
+0 - Semáforo abierto con éxito.
+0 - (!) Recurso tomado
+0 - Buenos días! Recurso usado
+Iniciando iteración 1
+1 - Semáforo abierto con éxito.
+1 - (!) Recurso tomado
+1 - Buenos días! Recurso usado
+Iniciando thread 3
+Iniciando iteración 1
+3 - Semáforo abierto con éxito.
+3 - (!) Recurso tomado
+3 - Buenos días! Recurso usado
+3 - Recurso devuelto :)
+Iniciando iteración 2
+3 - Semáforo abierto con éxito.
+3 - (!) Recurso tomado
+3 - Buenos días! Recurso usado
+Iniciando thread 4
+Esperando threads
+Iniciando iteración 1
+4 - Semáforo abierto con éxito.
+4 - (!) Recurso tomado
+4 - Buenos días! Recurso usado
+0 - Recurso devuelto :)
+Iniciando iteración 3
+0 - Semáforo abierto con éxito.
+0 - (!) Recurso tomado
+0 - Buenos días! Recurso usado
+0 - Recurso devuelto :)
+Iniciando iteración 4
+0 - Semáforo abierto con éxito.
+0 - (!) Recurso tomado
+0 - Buenos días! Recurso usado
+1 - Recurso devuelto :)
+Iniciando iteración 2
+1 - Semáforo abierto con éxito.
+1 - (!) Recurso tomado
+1 - Buenos días! Recurso usado
+2 - Recurso devuelto :)
+Iniciando iteración 2
+2 - Semáforo abierto con éxito.
+2 - (!) Recurso tomado
+2 - Buenos días! Recurso usado
+3 - Recurso devuelto :)
+Iniciando iteración 3
+3 - Semáforo abierto con éxito.
+3 - (!) Recurso tomado
+3 - Buenos días! Recurso usado
+4 - Recurso devuelto :)
+Iniciando iteración 2
+4 - Semáforo abierto con éxito.
+4 - (!) Recurso tomado
+4 - Buenos días! Recurso usado
+0 - Recurso devuelto :)
+Iniciando iteración 5
+0 - Semáforo abierto con éxito.
+0 - (!) Recurso tomado
+0 - Buenos días! Recurso usado
+0 - Recurso devuelto :)
+1 - Recurso devuelto :)
+Iniciando iteración 3
+1 - Semáforo abierto con éxito.
+1 - (!) Recurso tomado
+1 - Buenos días! Recurso usado
+2 - Recurso devuelto :)
+Iniciando iteración 3
+2 - Semáforo abierto con éxito.
+2 - (!) Recurso tomado
+2 - Buenos días! Recurso usado
+3 - Recurso devuelto :)
+Iniciando iteración 4
+3 - Semáforo abierto con éxito.
+3 - (!) Recurso tomado
+3 - Buenos días! Recurso usado
+4 - Recurso devuelto :)
+Iniciando iteración 3
+4 - Semáforo abierto con éxito.
+4 - (!) Recurso tomado
+4 - Buenos días! Recurso usado
+4 - Recurso devuelto :)
+Iniciando iteración 4
+4 - Semáforo abierto con éxito.
+4 - (!) Recurso tomado
+4 - Buenos días! Recurso usado
+2 - Recurso devuelto :)
+Iniciando iteración 4
+2 - Semáforo abierto con éxito.
+2 - (!) Recurso tomado
+2 - Buenos días! Recurso usado
+4 - Recurso devuelto :)
+Iniciando iteración 5
+4 - Semáforo abierto con éxito.
+4 - (!) Recurso tomado
+4 - Buenos días! Recurso usado
+1 - Recurso devuelto :)
+Iniciando iteración 4
+1 - Semáforo abierto con éxito.
+1 - (!) Recurso tomado
+1 - Buenos días! Recurso usado
+1 - Recurso devuelto :)
+Iniciando iteración 5
+1 - Semáforo abierto con éxito.
+1 - (!) Recurso tomado
+1 - Buenos días! Recurso usado
+3 - Recurso devuelto :)
+Iniciando iteración 5
+3 - Semáforo abierto con éxito.
+3 - (!) Recurso tomado
+3 - Buenos días! Recurso usado
+3 - Recurso devuelto :)
+4 - Recurso devuelto :)
+1 - Recurso devuelto :)
+2 - Recurso devuelto :)
+Iniciando iteración 5
+2 - Semáforo abierto con éxito.
+2 - (!) Recurso tomado
+2 - Buenos días! Recurso usado
+2 - Recurso devuelto :)
