@@ -1,0 +1,57 @@
+Creando threads
+Iniciando thread 0
+Thread 0 ha consumido 5 recursos. Recursos restantes: 5
+Thread 0 ha devuelto 5 recursos. Recursos disponibles: 10
+Thread 0 ha consumido 8 recursos. Recursos restantes: 2
+Thread 0 ha devuelto 8 recursos. Recursos disponibles: 10
+Thread 0 ha consumido 3 recursos. Recursos restantes: 7
+Thread 0 ha devuelto 3 recursos. Recursos disponibles: 10
+Thread 0 ha consumido 2 recursos. Recursos restantes: 8
+Iniciando thread 1
+Iniciando thread 2
+Iniciando thread 3
+Iniciando thread 4
+Esperando threads
+Thread 3 ha consumido 3 recursos. Recursos restantes: 5
+Thread 4 ha consumido 2 recursos. Recursos restantes: 3
+Thread 1 ha consumido 2 recursos. Recursos restantes: 1
+Thread 1 ha devuelto 2 recursos. Recursos disponibles: 3
+Thread 1 ha consumido 1 recursos. Recursos restantes: 2
+Thread 2 ha consumido 2 recursos. Recursos restantes: 0
+Thread 2 ha devuelto 2 recursos. Recursos disponibles: 2
+Thread 2 ha consumido 1 recursos. Recursos restantes: 1
+Thread 2 ha devuelto 1 recursos. Recursos disponibles: 2
+Thread 2 ha consumido 1 recursos. Recursos restantes: 1
+Thread 0 ha devuelto 2 recursos. Recursos disponibles: 3
+Thread 0 ha consumido 3 recursos. Recursos restantes: 0
+Thread 2 ha devuelto 1 recursos. Recursos disponibles: 1
+Thread 2 ha consumido 1 recursos. Recursos restantes: 0
+Thread 2 ha devuelto 1 recursos. Recursos disponibles: 1
+Thread 2 ha consumido 1 recursos. Recursos restantes: 0
+Thread 4 ha devuelto 2 recursos. Recursos disponibles: 2
+Thread 4 ha consumido 1 recursos. Recursos restantes: 1
+Thread 4 ha devuelto 1 recursos. Recursos disponibles: 2
+Thread 4 ha consumido 2 recursos. Recursos restantes: 0
+Thread 0 ha devuelto 3 recursos. Recursos disponibles: 3
+Thread 2 ha devuelto 1 recursos. Recursos disponibles: 4
+Thread 3 ha devuelto 3 recursos. Recursos disponibles: 7
+Thread 3 ha consumido 3 recursos. Recursos restantes: 4
+Thread 1 ha devuelto 1 recursos. Recursos disponibles: 5
+Thread 1 ha consumido 1 recursos. Recursos restantes: 4
+Thread 4 ha devuelto 2 recursos. Recursos disponibles: 6
+Thread 4 ha consumido 2 recursos. Recursos restantes: 4
+Thread 3 ha devuelto 3 recursos. Recursos disponibles: 7
+Thread 3 ha consumido 1 recursos. Recursos restantes: 6
+Thread 3 ha devuelto 1 recursos. Recursos disponibles: 7
+Thread 3 ha consumido 6 recursos. Recursos restantes: 1
+Thread 3 ha devuelto 6 recursos. Recursos disponibles: 7
+Thread 3 ha consumido 4 recursos. Recursos restantes: 3
+Thread 1 ha devuelto 1 recursos. Recursos disponibles: 4
+Thread 1 ha consumido 2 recursos. Recursos restantes: 2
+Thread 4 ha devuelto 2 recursos. Recursos disponibles: 4
+Thread 4 ha consumido 2 recursos. Recursos restantes: 2
+Thread 3 ha devuelto 4 recursos. Recursos disponibles: 6
+Thread 1 ha devuelto 2 recursos. Recursos disponibles: 8
+Thread 1 ha consumido 8 recursos. Recursos restantes: 0
+Thread 4 ha devuelto 2 recursos. Recursos disponibles: 2
+Thread 1 ha devuelto 8 recursos. Recursos disponibles: 10
